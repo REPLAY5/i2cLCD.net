@@ -5,9 +5,9 @@ This library allow you to use LCD 1602 with i2c expansion module on raspberry pi
 
 INSTALL:
 
-1) compile libNativeI2C by "make" command.
-2) compile your project with cLCD.vb
-3) put the libnativei2c.so in the same dir as executable.
+1) compile libNativeI2C by "make" command (on raspberry pi, linux).
+2) compile your project with cLCD.vb (Visual Studio .NET)
+3) put the libnativei2c.so in the same dir as executable. (in destination linux folder)
 
 Functions:
 
